@@ -1,4 +1,3 @@
-45 Min submission for todo task
 
 https://microsoftedge.github.io/Demos/demo-to-do/
 
@@ -17,5 +16,6 @@ npx playwright test
 npx playwright test --headed
 
 Run reports
+
 
 npx playwright show-report
