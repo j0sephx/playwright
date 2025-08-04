@@ -1,0 +1,21 @@
+45 Min submission for todo task
+
+https://microsoftedge.github.io/Demos/demo-to-do/
+
+Installing Playwright
+
+Install playwright using
+
+npm init playwright@latest
+
+Running tests
+
+To run the tests use
+
+npx playwright test 
+
+npx playwright test --headed
+
+Run reports
+
+npx playwright show-report
